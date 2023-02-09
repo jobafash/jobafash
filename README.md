@@ -3,11 +3,11 @@
 [![Website](https://img.shields.io/website?label=jobafash.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://jobafash.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Jobafash?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/jobafash)
 
-## I'm a Software Engineer(Web), and Electrical Engineering Senior!!
+## I'm a Software Engineer, with a focus on web and cloud technologies.
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other software developers on open source projects
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other software developers on different projects
+- 🥅 Goals: Contribute more to tech through open source and other opportunities available.
 - ⚡ Fun fact: I love soccer and play a lot of video games!
 
 ### Connect with me:
