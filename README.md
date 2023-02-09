@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software developers on different projects
 - 🥅 Goals: Contribute more to tech through open source and other opportunities available.
-- ⚡ Fun fact: I love soccer and play a lot of video games!
+- ⚡ Fun fact: I love soccer and play a lot of video games!!
 
 ### Connect with me:
 
